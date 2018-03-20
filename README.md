@@ -12,7 +12,10 @@ same as:
 
 have tried 3 ways to let chatBox to success & both of them failed
 
-【success--repo 3 】:thish one
+【success--repo 3 】:this one
+
+1.github修改碼 output 要refresh 2nd 才可成功
+2. detail:　js內不留　任何碼　才能成功
 
 【fail--repo 1 】
 don't do this one <1. repo of [makeGitterChatbox](https://github.com/kiecoo/makeGitterChatbox/blob/master/index.html)>   :[output](https://kiecoo.github.io/makeGitterChatbox/) is all blank
