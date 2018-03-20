@@ -1,5 +1,8 @@
 module.exports = gitterChat
 
+
+
+// the following put html or js : both success
 function makeGitterURL (username) {
   return `https://gitter.im/${username}/~embed`
 }
